@@ -1,3 +1,1 @@
-# image on arrival
-
-![](images/Portfolio%20Screen%20Grab.png)
+Portfolio Page that will host other projects.
