@@ -1,3 +1,3 @@
 This is my personal portfolio page!
 
-![](imagePortfolio%20Screen%20Grab.png
+![](images/Portfolio%20Screen%20Grab.png
