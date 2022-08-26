@@ -1,2 +1,2 @@
 
-![](images/Portfolio Screen Grab.png)
+![](images/Portfolio%20Screen%20Grab.png)
